@@ -5,7 +5,7 @@
 ## Demo
 
 <!-- Add a photo, GIF, or video link of your LEDs in action -->
-![demo](images\led_demo.gif)
+![demo](images/led_demo.gif)
 
 ## Features
 
@@ -31,11 +31,11 @@
 
 ### Main Layout
 
-![layout](images\layout.jpg)
+![layout](images/layout.jpg)
 
 ### Wiring Diagram
 <!-- Replace with an actual diagram image if you have one -->
-![wiring](images\LED.png)
+![wiring](images/LED.png)
 
 ### Usage video: 
 https://youtube.com/shorts/V1uS2J1ty8I?feature=share
